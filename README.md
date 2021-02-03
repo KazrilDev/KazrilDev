@@ -25,5 +25,4 @@
 
 <img align="left" alt="KazrilDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KazrilDev&show_icons=true&hide_border=true&theme=radical" />
 
-[website]: https://Orumaa.com
-[twitter]: https://twitter.com/OrumaaWeb
+[website]: https://8kmusic.tk
